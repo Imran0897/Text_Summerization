@@ -1,1 +1,3 @@
 # Text_Summerization
+
+The objective of this project is to create an automated text summarization model capable of extracting crucial information from extensive text datasets. The aim is to develop a robust text summarization system that can efficiently process large volumes of text and generate concise yet meaningful summaries. This project encompasses several components of Natural Language Processing (NLP), including text preprocessing, word embeddings, and sequence-to-sequence modeling. By leveraging these techniques, the project aims to enhance the extraction of key points from substantial amounts of text data, facilitating efficient information retrieval and analysis.
